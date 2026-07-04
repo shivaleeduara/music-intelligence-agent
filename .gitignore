@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+credentials/
+
+logs/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+*.json
